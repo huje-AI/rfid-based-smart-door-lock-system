@@ -1,0 +1,33 @@
+# Arduino IDE / build artifacts
+*.elf
+*.hex
+*.eep
+*.map
+*.o
+*.a
+*.d
+*.dSYM/
+
+# Arduino IDE and editor settings
+.arduinoIDE/
+.vscode/
+.idea/
+*.workspace
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Local backups and temporary files
+*~
+*.bak
+*.tmp
+Project Backups/
+__history/
+
+# Never publish credentials or device-specific secrets
+secrets.h
+*.secret
+.env

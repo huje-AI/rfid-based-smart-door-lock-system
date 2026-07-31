@@ -1,8 +1,8 @@
-# RFID-Based Smart Door Lock System with Web Management
+# RFID-Based Smart Door Access Control System
 
 An Arduino Uno-based RFID access-control prototype for a smart door lock. The embedded system authenticates RFID cards, supports keypad-based administrative actions, and persists authorized card data in EEPROM.
 
-> **Repository scope:** this repository contains the verified embedded firmware and hardware documentation. The web-management source code was not retained and is therefore not included or represented as a working feature here.
+> **Repository scope:** this repository contains the verified embedded firmware and hardware documentation for the access-control system.
 
 ## Highlights
 
